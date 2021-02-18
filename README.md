@@ -1,2 +1,2 @@
-# emojify
-Classification Human Facial expressions to filter and map corresponding Emojis
+# Emojify
+Classification of Human Facial expressions to filter and map corresponding Emojis
